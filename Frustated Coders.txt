@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define maxscore 1001
+#define maxscore 100
 
 int bullet[maxscore];
 
